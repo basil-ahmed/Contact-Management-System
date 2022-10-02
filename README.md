@@ -98,10 +98,10 @@ The following features are required to be implemented in the contact management 
        - This method takes pointer to the root node as arguments and prints the data at each node until the entire tree has been traversed
        
 10. printDES
-  - Displays all contacts in a descending order
-  - It will invoke a method with the following header:
-    void printDES(Node* ptr)
-    - This method takes pointer to the root node as arguments and prints the data at each node until the entire tree has been traversed
+     - Displays all contacts in a descending order
+     - It will invoke a method with the following header:
+       void printDES(Node* ptr)
+       - This method takes pointer to the root node as arguments and prints the data at each node until the entire tree has been traversed
   
 11. printfv
     - Displays all favorite contacts in an ascending order 
